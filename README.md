@@ -4,6 +4,6 @@ Window Counter is a web application to automate the stocktaking of building wind
 ### Clone
 ### Setup
 ### Collaborators
-##### . Kamal
+⋅⋅1. Kamalhasan Battu
 ### Support
 ### Licence
