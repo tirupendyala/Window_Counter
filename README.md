@@ -6,11 +6,11 @@ Clone this repo to your local machine using https://github.com/OVGU-Fraunhofer/W
 ### Setup
 ### Collaborators
 * Kamalhasan Battu, github: [Kamalhsn](https://github.com/Kamalhsn)
-* Narendra Kumar Anupoju, github:
+* Narendra Kumar Anupoju, github: 
 * Nikhilesh Sandela, github:
 * Praveen Putti, github:
-* Thirupathi Rao Pendyala, github:
-* Vinayak Kudurmuthy, github:
+* Thirupathi Rao Pendyala, github: [tirupendyala](https://github.com/tirupendyala)
+* Vinayak Kudurmuthy, github: [vinayak09](https://github.com/vinayak09)
 ### Support
 ### License
 * [MIT License](https://github.com/OVGU-Fraunhofer/Window_Counter/blob/master/LICENSE)
