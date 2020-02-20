@@ -5,7 +5,7 @@ Window Counter is a web application to automate the stocktaking of building wind
 Clone this repo to your local machine using https://github.com/OVGU-Fraunhofer/Window_Counter
 ### Setup
 ### Collaborators
-* Kamalhasan Battu, github:
+* Kamalhasan Battu, github: [Kamalhsn](https://github.com/Kamalhsn)
 * Narendra Kumar Anupoju, github:
 * Nikhilesh Sandela, github:
 * Praveen Putti, github:
