@@ -1,7 +1,7 @@
 ### Window_Counter
 Window Counter is a web application to automate the stocktaking of building windows. This application detects a window image in a highlighted rectangular box by assigning its tag and accuracy.
 
-![image](integration_image.jpg)
+![Alt text](C:/Users/Kamal/Downloads/integration_image.jpg?raw=true "Title")
 
 ![alt text](C:/Users/Kamal/Downloads/integration_image.jpg)
 
