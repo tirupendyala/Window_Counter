@@ -12,4 +12,5 @@ Clone this repo to your local machine using https://github.com/OVGU-Fraunhofer/W
 * Thirupathi Rao Pendyala, github:
 * Vinayak Kudurmuthy, github:
 ### Support
-### Licence
+### License
+[GitHub](http://github.com)
