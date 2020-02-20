@@ -4,6 +4,11 @@ Window Counter is a web application to automate the stocktaking of building wind
 ### Clone
 ### Setup
 ### Collaborators
-* Kamalhasan Battu
+* Kamalhasan Battu, github:
+* Narendra Kumar Anupoju, github:
+* Nikhilesh Sandela, github:
+* Praveen Putti, github:
+* Thirupathi Rao Pendyala, github:
+* Vinayak Kudurmuthy, github:
 ### Support
 ### Licence
