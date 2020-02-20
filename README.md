@@ -13,4 +13,4 @@ Clone this repo to your local machine using https://github.com/OVGU-Fraunhofer/W
 * Vinayak Kudurmuthy, github:
 ### Support
 ### License
-[GitHub](http://github.com)
+[MIT License](https://github.com/OVGU-Fraunhofer/Window_Counter/blob/master/LICENSE)
