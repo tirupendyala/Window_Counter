@@ -14,4 +14,4 @@ Clone this repo to your local machine using https://github.com/OVGU-Fraunhofer/W
 ### Support
 ### License
 * [MIT License](https://github.com/OVGU-Fraunhofer/Window_Counter/blob/master/LICENSE)
-* Copyright (c) 2020 [OVGU-Fraunhofer](https://github.com/OVGU-Fraunhofer/Window_Counter
+* Copyright (c) 2020 [OVGU-Fraunhofer](https://github.com/OVGU-Fraunhofer/Window_Counter)
