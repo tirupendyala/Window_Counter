@@ -3,7 +3,7 @@ Window Counter is a web application to automate the stocktaking of building wind
 
 
 
-![alt text](C:/Users/Kamal/Downloads/IOU_for_doc.png)
+![alt text](C:/Users/Kamal/Downloads/IOU_for_doc.PNG)
 
 ### Installation
 ### Clone
