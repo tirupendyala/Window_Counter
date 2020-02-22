@@ -16,7 +16,7 @@ Clone this repo to your local machine using https://github.com/OVGU-Fraunhofer/W
 * Browse for local host
 ### Collaborators
 * Kamalhasan Battu, github: [Kamalhsn](https://github.com/Kamalhsn)
-* Narendra Kumar Anupoju, github: 
+* Narendra Kumar Anupoju, github: [narendraanupoju](https://github.com/narendraanupoju) 
 * Nikhilesh Sandela, github:
 * Praveen Putti, github:
 * Thirupathi Rao Pendyala, github: [tirupendyala](https://github.com/tirupendyala)
