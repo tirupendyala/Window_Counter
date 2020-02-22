@@ -1,0 +1,80 @@
+<div class="container-fluid back-img">
+  <div class="row" *ngIf="err_msg!=null">
+    <div class="col-sm-12 text-center">
+      <p class="error">{{err_msg}}</p>
+    </div>
+  </div>
+  <!-- bootstrap left card for choose file option -->
+  <div class="row">
+    <div class="col-sm-4 offset-sm-1 leftcard">
+      <div class="card remov-border" style="width: 10rem;">
+        <div class="card-body text-center back-img">
+          <img class="card-img-top" src="assets/upload.png" alt="Card image cap">
+          <div class="form-group">
+            <input #myImage type="file" #Image accept="image/*" id="img_name" name="image"
+              (change)="fileProgress($event)" />
+          </div>
+          <div *ngIf="fileUploadProgress">
+            Upload progress: {{ fileUploadProgress }}
+          </div>
+
+
+          <div class="mb-3" *ngIf="uploadedFilePath">
+            {{uploadedFilePath}}
+          </div>
+
+
+
+
+        </div>
+      </div>
+    </div>
+         <!-- submit button -->
+    <div class="col-sm-2 subbtn">
+      <button class="btn btn-primary" (click)="onSubmit()">Submit</button>
+    </div>
+    <!-- bootstrap right card for camera option -->
+    <div class="col-sm-4 rightcard">
+      <div class="card remov-border" style="width: 10rem;">
+        <div class="card-body text-center back-img">
+          <img class="card-img-top" src="assets/camera.png" alt="Card image cap">
+
+
+          <button class="btn btn-primary" (click)="onCamera()">Camera</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <div class="row pad-30">
+    <div class="col-sm-12">
+      <div *ngIf="!previewUrl" class="space">
+
+      </div>
+      <!-- preview image -->
+      <div *ngIf="previewUrl">
+        <img class="pic" [src]="previewUrl" height="400" width="400" />
+      </div>
+      <!-- webcam to take  snapshot of a picture -->
+      <div *ngIf="webCam">
+        <webcam [height]="400" [width]="600" [trigger]="triggerObservable" (imageCapture)="handleImage($event)"
+          [allowCameraSwitch]="allowCameraSwitch" [switchCamera]="nextWebcamObservable" [imageQuality]="1"
+          (cameraSwitched)="cameraWasSwitched($event)" (initError)="handleInitError($event)">
+        </webcam>
+        <br />
+        <button class="btn btn-secondary" style="margin-right: 10px" (click)="triggerSnapshot();">Take A
+          Snapshot</button>
+        <button class="btn btn-secondary" (click)="toggleWebcam();">close camera</button>
+      </div>
+    </div>
+
+  </div>
+  <br>
+  <div class="row" *ngIf="previewUrl">
+    <div class="col-sm-12 text-center">
+      <label class="wincon">Window Count :</label>
+      <input type="text" class=" input" [(ngModel)]="winCount" readonly disabled>
+    </div>
+
+  </div>
+</div>
