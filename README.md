@@ -7,9 +7,9 @@ Window Counter is a web application to automate the stocktaking of building wind
 
 ### Installation
 #### Prerequisites
-#### Frontend
-#### Backend
-#### Faster R-CNN Model
+##### Frontend
+##### Backend
+##### Faster R-CNN Model
 
 ### Clone
 Clone this repo to your local machine using https://github.com/OVGU-Fraunhofer/Window_Counter
