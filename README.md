@@ -5,12 +5,20 @@ Window Counter is a web application to automate the stocktaking of building wind
 
 ![Window Counter App](app_view/integration_image.JPG)
 
+Faster R-CNN model is trained and tested on Intel CORE i7-8th generation processor (16gb RAM).  
 ### Installation
 #### Prerequisites
 ##### Frontend
-##### Backend
-##### Faster R-CNN Model
-
+* Angular 8
+* node.js
+* Ngx-webcam
+* Bootstrap v4
+##### Backend and Faster R-CNN Model
+* Flask
+* CORS
+* Keras 2.0.3 
+* Tensorflow 1.13.1
+* OpenCV
 ### Clone
 Clone this repo to your local machine using https://github.com/OVGU-Fraunhofer/Window_Counter
 ### Setup
@@ -28,6 +36,7 @@ Clone this repo to your local machine using https://github.com/OVGU-Fraunhofer/W
 * Thirupathi Rao Pendyala, github: [tirupendyala](https://github.com/tirupendyala)
 * Vinayak Kudurmuthy, github: [vinayak09](https://github.com/vinayak09)
 ### Support
+* kamalhasan.battu@st.ovgu.de
 ### License
 * [MIT License](https://github.com/OVGU-Fraunhofer/Window_Counter/blob/master/LICENSE)
 * Copyright (c) 2020 [OVGU-Fraunhofer](https://github.com/OVGU-Fraunhofer/Window_Counter)
