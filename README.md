@@ -10,10 +10,11 @@ Window Counter is a web application to automate the stocktaking of building wind
 Clone this repo to your local machine using https://github.com/OVGU-Fraunhofer/Window_Counter
 ### Setup
 * Naviagate to Frontend directory in the local machine
-* Run ngserve
-* Naviagate to backend directory.
-* Run pythonbackend.py
-* Browse for local host
+* Run npm install
+* Run ng serve
+* Naviagate to backend directory
+* Run python backend.py
+* Browse for https://localhost:4200/
 ### Collaborators
 * Kamalhasan Battu, github: [Kamalhsn](https://github.com/Kamalhsn)
 * Narendra Kumar Anupoju, github: [narendraanupoju](https://github.com/narendraanupoju) 
