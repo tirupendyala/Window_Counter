@@ -14,7 +14,7 @@ Clone this repo to your local machine using https://github.com/OVGU-Fraunhofer/W
 * Run ng serve
 * Naviagate to backend directory
 * Run python backend.py
-* Browse for https://localhost:4200/
+* Browse for http://localhost:4200/
 ### Collaborators
 * Kamalhasan Battu, github: [Kamalhsn](https://github.com/Kamalhsn)
 * Narendra Kumar Anupoju, github: [narendraanupoju](https://github.com/narendraanupoju) 
