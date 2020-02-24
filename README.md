@@ -31,8 +31,8 @@ Clone this repo to your local machine using https://github.com/OVGU-Fraunhofer/W
 ### Collaborators
 * Kamalhasan Battu, github: [Kamalhsn](https://github.com/Kamalhsn)
 * Narendra Kumar Anupoju, github: [narendraanupoju](https://github.com/narendraanupoju) 
-* Nikhilesh Sandela, github:[Nikhileshsandela](https://github.com/Nikhileshsandela)
-* Praveen Putti, github:[praveen218170](https://github.com/praveen218170)
+* Nikhilesh Sandela, github: [Nikhileshsandela](https://github.com/Nikhileshsandela)
+* Praveen Putti, github: [praveen218170](https://github.com/praveen218170)
 * Thirupathi Rao Pendyala, github: [tirupendyala](https://github.com/tirupendyala)
 * Vinayak Kudurmuthy, github: [vinayak09](https://github.com/vinayak09)
 ### Support
